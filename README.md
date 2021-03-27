@@ -11,7 +11,6 @@
 
 ## O que estudo:
 
-![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-Javascript-555555?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
