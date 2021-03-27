@@ -5,9 +5,6 @@
 - 📝 Extrema vontade em aprender e me aperfeiçoar!
 - 📱 Me encontre nos links:
 
-<br>
-
-
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vitor-tenório/)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />](https://www.instagram.com/vitor.andre.9/)
 [<img src="https://img.shields.io/badge/vitoraot@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:vitoraot@gmail.com)
