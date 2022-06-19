@@ -1,7 +1,8 @@
 # Olá, sou o Vitor! 👋
 
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras
-- 💻 Desenvolvedor Back-End na Comp Júnior
+- 💻 Desenvolvedor e Tech-lead Back-End na Comp Júnior
+- 💻 Desenvolvedor Full-Stack na az.leads
 - 📝 Extrema vontade em aprender e me aperfeiçoar!
 - 📱 Me encontre nos links:
 
