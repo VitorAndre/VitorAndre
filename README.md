@@ -3,7 +3,8 @@
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras
 - 💻 Ex desenvolvedor e Tech-lead Back-End na Comp Júnior
 - 💻 Ex desenvolvedor Full-Stack na az.leads
-- 💻 Trainee na SYDLE
+- 💻 Ex Trainee na SYDLE
+- 💻 Gerente de projetos na Zeeway
 - 📝 Extrema vontade em aprender e me aperfeiçoar!
 - 📱 Me encontre nos links:
 
